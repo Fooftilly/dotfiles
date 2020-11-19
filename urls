@@ -1,0 +1,274 @@
+#UCG
+https://webmail.ucg.ac.me/rss.xml "~UCG" "UCG"
+http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.ucg.ac.me%2F&in_id_or_class=col-md-4+col+mb-4+mb-md-0&max=5&order=document "~UCG Main" "UCG"
+http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.ucg.ac.me%2Fobjave_spisak%2Fposlao%2Ffakultet%2F3&in_id_or_class=col-xs-12+result-row&max=5&order=document&text_contains%5B0%5D=Filozofija&text_contains%5B1%5D=Filosofija "~Predavanja - Filozofija" "UCG"
+
+#MIT Top News
+https://www.technologyreview.com/topnews.rss "Sci"
+
+#ScienceDaily
+https://www.sciencedaily.com/rss/all.xml "Sci"
+
+#Splashdot
+http://rss.slashdot.org/Slashdot/slashdot
+
+#PhilosophyNow
+https://philosophynow.org/rss
+
+#Vijesti.me
+https://www.vijesti.me/rss
+
+#GamingonLinux
+https://www.gamingonlinux.com/article_rss.php
+
+#Freedom To Thinker
+https://freedom-to-tinker.com/feed/
+
+#Universe Today
+https://www.universetoday.com/feed/
+
+#Nature
+http://feeds.nature.com/nature/rss/current
+
+#Astronomy Magazine
+https://astronomy.com/rss/news
+
+#CIA
+https://www.cia.gov/news-information/your-news/cia-library/RSS.xml
+https://www.cia.gov/news-information/your-news/cia-newsroom/RSS.xml
+
+#EFF
+https://www.eff.org/rss/updates.xml
+https://act.eff.org/action.atom
+https://www.eff.org/about/opportunities/jobs/feed
+
+#Krik RS
+https://www.krik.rs/feed/
+
+#Laphams Quarterly
+https://www.laphamsquarterly.org/rss.xml
+
+#Distill
+https://distill.pub/rss.xml
+
+#Statmodeling
+https://statmodeling.stat.columbia.edu/feed/
+
+#Ben Kuhn
+https://www.benkuhn.net/index.xml
+
+#Made of Bugs
+https://blog.nelhage.com/atom.xml
+
+#Jeffery Paul
+https://sneak.berlin/feed.xml
+
+#PCGamer
+https://www.pcgamer.com/rss/
+
+#Linux Kernel Newbie
+https://kernelnewbies.org/Linux_Kernel_Newbies?action=rss_rc&unique=1&ddiffs=1
+
+#Linux
+https://www.linux.com/feed/
+
+#Mitropolija
+https://mitropolija.com/feed/
+
+#
+
+
+#
+
+
+
+
+
+#ZDNet
+https://www.zdnet.com/news/rss.xml
+
+#TechRepublic
+https://www.techrepublic.com/rssfeeds/topic/android/ "android"
+https://www.techrepublic.com/rssfeeds/topic/google/ "google"
+https://www.techrepublic.com/rssfeeds/topic/internet-of-things/ "IoT"
+https://www.techrepublic.com/rssfeeds/topic/microsoft/ "microsoft"
+https://www.techrepublic.com/rssfeeds/topic/open-source/ "opensource"
+https://www.techrepublic.com/rssfeeds/topic/networking/ "networking"
+https://www.techrepublic.com/rssfeeds/topic/security/ "security"
+
+#9to5Google
+https://9to5google.com/feed/
+
+#Ars Technica
+https://feeds.feedburner.com/arstechnica/index
+
+#ItsFOSS
+https://itsfoss.com/feed/ "linux"
+
+#Linux Magazine
+https://www.linux-magazine.com/rss/feed/lmi_news "linux"
+
+#nixCraft
+https://www.cyberciti.biz/atom/atom.xml "linux"
+
+#LinuxToday
+https://feeds.feedburner.com/linuxtoday/linux "linux"
+
+#LinuxJournal
+https://www.linuxjournal.com/node/feed "linux"
+
+#Arch
+https://www.archlinux.org/feeds/news/ "linux"
+https://www.reddit.com/r/archlinux/new.rss "linux" reddit
+
+#Reddit
+https://www.reddit.com/r/FreeGamesOnSteam/new.rss "gaming" reddit
+https://www.reddit.com/r/philosophy/new.rss "philosophy" reddit
+https://www.reddit.com/r/linux/new.rss "linux" reddit
+https://www.reddit.com/r/unixporn/new.rss "linux" reddit
+
+#Podcast
+https://philosophizethis.libsyn.com/rss "Philosophize This!" philosophy podcast
+https://feed.podbean.com/hopwag/feed.xml "History of Philosophy Without Any Gaps" philosophy podcast
+https://feed.podbean.com/hopwag2/feed.xml "History of Indian and Africana Philosophy" philosophy podcast
+http://feeds.megaphone.fm/LIT3426521806 "New Books in Philosophy" philosophy podcast
+https://partiallyexaminedlife.libsyn.com/rss "Partially Examine Life" philosophy podcast
+https://askhistorians.libsyn.com/rss "Ask Historians" history podcast
+https://notrelated.libsyn.com/rss "Not Related" podcast
+
+#Comics, Manga...
+https://xkcd.com/rss.xml "xkcd" comics
+https://patchfriday.com/rss.xml "Patch Friday" comics
+https://existentialcomics.com/rss.xml "Existential Comics" comics
+https://swordscomic.com/comic/feed/ "Sword Comic" comics
+
+#Steam News
+https://store.steampowered.com/feeds/news.xml
+https://store.steampowered.com/feeds/newreleases.xml
+https://store.steampowered.com/feeds/daily_deals.xml
+
+#Luke Smith
+http://lukesmith.xyz/rss.xml "linux"
+
+#Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA  "~Luke Smith (YouTube)" youtube tech linux
+https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ  "~Eli the Computer Guy" youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w  "~LiveOwerflow" youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw  "~PewDiePie"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0QHWhjbe5fGJEPz3sVb6nw  "~Doctor Mike"  youtube medicine
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0vBXGSyV14uvJ4hECDOl0Q  "~Techquickie"  youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1D3yD4wlPMico0dss264XA  "~NileBlue"  youtube chemistry
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w  "~CGP Grey"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2PA-AKmVpU6NKCGtZq_rKQ  "~Philosophy Tube"  youtube philosophy
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3KEoMzNz8eYnwBC34RaKCQ  "~Simone Giertz"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3jdnIP2u5hCJpVZ-TuDrCg  "~Whang!"  youtube documentary
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3ogrx6d9oohf6D42G44j1A  "~Terrible Writing Advice"  youtube literature
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ  "~Hak5"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC52kszkc08-acFOuogFl5jw  "~Tibees"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6-ymYjG0SU0jUWnWh9ZzEQ  "~Wisecrack"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA  "~SmarterEveryDay"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6FO-Up1-oLj5nNivCNHL-Q  "~Ryan Chapman"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA  "~Vsauce"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6wBro4B4pf9xnBh9Xi2zcQ  "~David Hoffman"  youtube documentary
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7DdEm33SyaTDtWYGO2CwdA  "~Physics Girl"  youtube psysics
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8Q7XEy86Q7T-3kNpNjYgwA  "~Internet Historian: Incognito Mode"  youtube history
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8R8FRt1KcPiR-rtAflXmeg  "~Nahre Sol"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8uT9cgJorJPWu7ITLGo9Ww  "~The 8-Bit Guy"  youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9PIn6-XuRKZ5HmYeu46AIw  "~Barely Sociable"  youtube documentary
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgmI-uiLLAg--vDe7FFdekA  "~Slightly Sociable" youtube documentary
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9RM-iSvTu1uPJb8X5yp3EQ  "~Wendover Productions"  youtube documentary
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A  "~Tom Scott"  youtube documentary
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCESYbEs7998WRpINv192zQ  "~Peđa Radović"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEIwxahdLz7bap-VDs9h35A  "~Steve Mould"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEtxsMx4qsoitFwjBdLU_gA  "~Gregory B. Sadler"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFLFc8Lpbwt4jPtY1_Ai5yA  "~LMG Clips"  youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA  "~NileRed"  youtube chemistry
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA  "~Veritasium"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHsRtomD4twRf5WVHHk-cMw  "~TierZoo"  youtube biology
+https://www.youtube.com/feeds/videos.xml?channel_id=UCI9DUIgtRGHNH_HmSTcfUbA  "~The Closer Look"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIWEHR8n8GiLMWY8v7IP0Gg  "~Mikasacus"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ1h9s9apCKvXodnl5feDyQ  "~Elita Cartoon"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJBftKRT9KpnRldI4QVLRbQ  "~Bookvalisti"  youtube literature
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKdClFEfBKpSiODusrWuK5w  "~Književnost uživo"  youtube literature
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLt4d8cACHzrVvAz9gtaARA  "~Neuralink"  youtube tech sci
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLx053rWZxCiYWsBETgdKrQ  "~LGR"  youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ  "~Practical Engineering"  youtube enginnering
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMiRHvtp3BZDuOxE8VzosCQ  "~Jugoslovenska Kinoteka"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNL8SCfixpPsU5shwmv9Kuw  "~Philosophy Tube Live"  youtube philosophy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNofX8wmSJh7NTklvMqueOA  "~Shannon Morse"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOGeU-1Fig3rrDjhm9Zs_wg  "~Vihart"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOuWeOkMrq84u5LY6apWQ8Q  "~TREY the Explainer"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCP5tjEmvPItGyLhmjdwP7Ww  "~RealLifeLore"  youtube documentary
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPzFLpOblZEaIx2lpym1l1A  "~Alex"  youtube cooking
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQBG3PzyQKY8ieMG2gDAyOQ  "~Peaceful Cuisine"  youtube cooking
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQobnzrw_Gd57AL6lUNN7xA  "~Matt Deaton"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCR1D15p_vdP3HkrH8wgjQRw  "~Internet Historian"  youtube history
+https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg  "~Real Engineering"  youtube engineering
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRUULstZRWS1lDvJBzHnkXA  "~Matt and Tom"  youtube documentary
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRllohBcHec7YUgW6HfltLA  "~ScorpioMartianus"  youtube latin
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A  "~Stand-up Maths"  youtube math
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSkzHxIcfoEr69MWBdo0ppg  "~Cuck Philosophy"  youtube philosophy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUeClIVhvZ_HjSfRiv92u5w  "~Legio XIII"  youtube latin
+https://www.youtube.com/feeds/videos.xml?channel_id=UCV5vCi3jPJdURZwAOO_FNfQ  "~The Thought Emporium"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVKLEYQN_Zq7r65hZVxz0bQ  "~ĐORĐE BALAŠEVIĆ OFFICIAL"  youtube music
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVQCQJyZQcIioTDQ4SACvZQ  "~Back To Reality"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWTFGPpNQ0Ms6afXhaWDiRw  "~Now You See It"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWZW8u2Epn3_92dDfO-LQXg  "~Trag"  youtube music
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWdThUGn6xcAtmxBDjOUY6w  "~Jesse Tribble"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXGgrKt94gR6lmN4aN3mYTg  "~Austin Evans"  youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw  "~Linus Tech Tips"  youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg  "~Mark Rober"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYwVxWpjeKFWwu8TML-Te9A  "~JCS - Criminal Psychology"  youtube psych
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZcoU153cIkNH9-Q7f_QhXQ  "~The Nature of Writing"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZrrEuHiQjN2CUo84g5tk7w  "~tripcode!Q/7"  youtube linux
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_x3WKwoRsDGZqhYDRUGhpg  "~Miloš Milaković"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCafEZMU5s8geb9oIly6xTrg  "~R.C. Waldun"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbVcb9puAsOhXBT2_XPFf-A  "~the_miracle_aligner"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbbQalJ4OaC0oQ0AqRaOJ9g  "~Jay Foreman"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg  "~Two Minute Papers"  youtube sci
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbpMy0Fg74eXXkvxJrtEn3w  "~Bon Appétit"  youtube cooking
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbphDfwSJmxk1Ny_3Oicrng  "~Storytellers"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbxQcz9k0NRRuy0ukgQTDQQ  "~AustinMcConnell"  youtube documentary
+https://www.youtube.com/feeds/videos.xml?channel_id=UCc-N24Y5OA0gqbjBwe1ttfA  "~Weird History"  youtube history
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcoO-8J0EYQHGPFQqwmAzVQ  "~exurb2a"  youtube philosophy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdBK94H6oZT2Q7l0-b0xmMg  "~ShortCircuit"  youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UCe94DWRFKTS_R2jt-42qV7Q  "~nogre0"  youtube philosophy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeTfBygNb1TahcNpZyELO8g  "~Jacob Geller"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeaKRrrpWiQFJJmiuon2WoQ  "~Huw Richards"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA  "~TechLinked"  youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UChnRk6mxWsSOGElm8phdSxw  "~Simon Roper"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UChqLwfp3eAkAwX9DGnqr_CA  "~Ecolinguist"  youtube latin language
+https://www.youtube.com/feeds/videos.xml?channel_id=UCimiUgDLbi6P17BdaCZpVbg  "~exurb1a"  youtube philosophy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCj1VqrHhDte54oLgPG4xpuQ  "~Stuff Made Here"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjFqcJQXGZ6T6sxyFB-5i6A  "~Every Frame a Painting"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkin59aR57-RgqvN04jHSIg  "~Joana Ceddia"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w  "~Louis Rossmann"  youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UClRwC5Vc8HrB6vGx6Ti-lhA  "~Technology Connextras"  youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UCl_dlV_7ofr4qeP1drJQ-qg  "~Tantacrul"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA  "~Brodie Robertson"  youtube linux
+https://www.youtube.com/feeds/videos.xml?channel_id=UClnDI2sdehVm1zm_LmUHsjQ  "~Biographics"  youtube biography
+https://www.youtube.com/feeds/videos.xml?channel_id=UClq42foiSgl7sSpLupnugGA  "~D!NG"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCm9K6rby98W8JigLoZOh6FQ  "~LockPickingLawyer"  youtube security
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmQThz1OLYt8mb2PU540LOA  "~The Art Assignment"  youtube art
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmmPgObSUPw1HL2lq6H4ffA  "~Geography Now"  youtube geography
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmsFftOL2yNub8Z3CB0QKgA  "~Thoughts on Thinking"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoOjH8D2XAgjzQlneM2W0EQ  "~Jake Tran"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A  "~Numberphile"  youtube math
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpa-Zb0ZcQjTCPP1Dx_1M8Q  "~LegalEagle"  youtube legal
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpvhlSLzg2LT89FNUuN-Sig  "~Wireless Philosophy"  youtube philosophy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqVEHtQoXHmUCfJ-9smpTSg  "~Sabrina"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqYPhGiB9tkShZorfgcL2lA  "~What I've Learned"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCr1M-E3iq3udlE2eYgRwpGg  "~Boris Malagurski"  youtube documentary
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrMiGmO4X9WeWq1fMm_7avg  "~latintutorial"  youtube latin
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg  "~Wolfgang's Channel"  youtube linux
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtESv1e7ntJaLJYKIO1FoYw  "~Periodic Videos"  youtube chemistry
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtGG8ucQgEJPeUPhJZ4M4jA  "~Rare Earth"  youtube documentary
+https://www.youtube.com/feeds/videos.xml?channel_id=UCv4-yypZ7srAlzk_MQCRaLQ  "~Ours Poetica"  youtube literature
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvMLMyKPomE6kTTL9Kv8Iww  "~Sound Field"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvZe6ZCbF9xgbbbdkiodPKQ  "~Baumgartner Restoration"  youtube art
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvp878PDSHkp6yvmHPPyVxA  "~PETROVICPETAR"  youtube music
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvqYKgKlEBRf4658pc8NeTw  "~The Philosophy Guy"  youtube philosophy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvrLvII5oxSWEMEkszrxXEA  "~N-O-D-E"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q  "~Technology Connections"  youtube tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyNtlmLB73-7gtlBz00XOQQ  "~Folding Ideas"  youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyQfg-PcGh03klY8bEbk0HA  "~AgapeShow"  youtube interview
