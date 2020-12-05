@@ -1,0 +1,28 @@
+#!/bin/sh
+
+Classical=(
+	'https://www.youtube.com/watch?v=inBKFMB-yPg'\ 'https://www.youtube.com/watch?v=UMwwsUsuqOo' \ 'https://www.youtube.com/watch?v=ojBYW3ycVTE'\ 'https://www.youtube.com/watch?v=FHNLdHe8uxY'\ 'https://www.youtube.com/watch?v=ZPdk5GaIDjo'\ 'https://www.youtube.com/watch?v=RvDt_KtOzbc'\ 'https://www.youtube.com/watch?v=JvNQLJ1_HQ0'\ ''\ ''\ ''\ ''\
+)
+
+Yugo=(
+	'https://www.youtube.com/watch?v=imavcafVXZY'\ 'https://www.youtube.com/watch?v=E0gLk-yvWME'\ 'https://www.youtube.com/watch?v=vVOUrPyNfh8'\ 'https://www.youtube.com/watch?v=lWfcj0R0kfY'\ 'https://www.youtube.com/watch?v=rcVca5Xno68'\ 'https://www.youtube.com/watch?v=abtcYIaUuHw'\ 'https://www.youtube.com/watch?v=a6Y3iR22LU8'\ 'https://www.youtube.com/watch?v=rAOZpFO8n_g'\ 'https://www.youtube.com/watch?v=mhJK8Cc1-eg'\ 'https://www.youtube.com/watch?v=pBQAnobX7-M'\ 'https://www.youtube.com/watch?v=kr9NGtWhEOo'\ 'https://www.youtube.com/watch?v=3OZ52qusexQ'\ 'https://www.youtube.com/watch?v=BudvCadi5YA'\ 'https://www.youtube.com/watch?v=qh3-N6WHchA'\ 'https://www.youtube.com/watch?v=9nBnRu6o4sM'\ 'https://www.youtube.com/watch?v=PQg983EVz1I'\ 'https://www.youtube.com/watch?v=wW6OY-b0UAo'\ 'https://www.youtube.com/watch?v=-vzYdtCDAfY'\ 'https://www.youtube.com/watch?v=0sIBntGhCrk'\ 'https://www.youtube.com/watch?v=A8sFkwwf8Xk'\ 'https://www.youtube.com/watch?v=m-iuqomR9N4'\ 'https://www.youtube.com/watch?v=6ko7ZIj358E'\ 'https://www.youtube.com/watch?v=IfdnX0l9LAY'\ 'https://www.youtube.com/watch?v=y-g2-6PxNXE'\ 'https://www.youtube.com/watch?v=sLVgDuDIrs8'\ 'https://www.youtube.com/watch?v=OmalLf3RbnI'\ 'https://www.youtube.com/watch?v=M8xOft-MdZc'\ 'https://www.youtube.com/watch?v=fYhaNlG4Fg8'\ 'https://www.youtube.com/watch?v=cxdUTm6nKbI'\ 'https://www.youtube.com/watch?v=H_096MasS38'\ 'https://www.youtube.com/watch?v=5UjOj_oJN6w'\ 'https://www.youtube.com/watch?v=-4xdfEzFbrc'\ 'https://www.youtube.com/watch?v=3hsHu9r_YNc'\ 'https://www.youtube.com/watch?v=zraVg1KU_Ac'\ 'https://www.youtube.com/watch?v=bsTLEoz5cIM'\ 'https://www.youtube.com/watch?v=43FoxNefQ_Y'\ 'https://www.youtube.com/watch?v=Kez2kRj5hvI'\ 'https://www.youtube.com/watch?v=uD5NmxNj-gQ'\ 'https://www.youtube.com/watch?v=zBLGzUWFRBM'\ 'https://www.youtube.com/watch?v=OXDSyKAEGeM'\ 'https://www.youtube.com/watch?v=fobfyTd1Ix4'\ 'https://www.youtube.com/watch?v=-ILo7Wf6zfc'\ 'https://www.youtube.com/watch?v=6wXybwOYVMc'\ 'https://www.youtube.com/watch?v=Bq5AjZL4_a4'\ 'https://www.youtube.com/watch?v=ypnQ2oDowlg'\ 'https://www.youtube.com/watch?v=KyTORteSuxg'\ 'https://www.youtube.com/watch?v=Up6qKt5E5Mg'\ 'https://www.youtube.com/watch?v=ml_ZsjaHXGo'\ 'https://www.youtube.com/watch?v=e25_3FuQWHg'\ 'https://www.youtube.com/watch?v=crlkXEB49Tk'\ 'https://www.youtube.com/watch?v=q8QbTikc8eA'\ 'https://www.youtube.com/watch?v=wbtADLDukD4'\ 'https://www.youtube.com/watch?v=nKqBnEJwIe0'\ 'https://www.youtube.com/watch?v=ziTMr5TJ-5E'\ 'https://www.youtube.com/watch?v=wpDNIHwk-D0'\ 'https://www.youtube.com/watch?v=G4Teo0KCzdM'\ 'https://www.youtube.com/watch?v=cGnZr7w76Pg'\ 'https://www.youtube.com/watch?v=pKYUkWk1Wy4'\ 'https://www.youtube.com/watch?v=4SjgsTe4d6o'\ 'https://www.youtube.com/watch?v=7oS540ulBcY'\ ''\
+	)
+
+Foreign=(
+	'https://www.youtube.com/watch?v=7rq9OvaJyRc'\ 'https://www.youtube.com/watch?v=I_2D8Eo15wE'\ 'https://www.youtube.com/watch?v=O4irXQhgMqg'\ 'https://www.youtube.com/watch?v=8AHCfZTRGiI'\ 'https://www.youtube.com/watch?v=eJlN9jdQFSc'\ 'https://www.youtube.com/watch?v=8UVNT4wvIGY'\ 'https://www.youtube.com/watch?v=Kmiw4FYTg2U'\ 'https://www.youtube.com/watch?v=9XaS93WMRQQ'\ 'https://www.youtube.com/watch?v=6Ejga4kJUts'\ 'https://www.youtube.com/watch?v=kXYiU_JCYtU'\ 'https://www.youtube.com/watch?v=NeQM1c-XCDc'\ 'https://www.youtube.com/watch?v=v2AC41dglnM'\ 'https://www.youtube.com/watch?v=3YxaaGgTQYM'\ 'https://www.youtube.com/watch?v=xwtdhWltSIg'\ 'https://www.youtube.com/watch?v=tAGnKpE4NCI'\ 'https://www.youtube.com/watch?v=M38aWHxwtXE'\ 'https://www.youtube.com/watch?v=jM8dCGIm6yc'\
+)
+
+Games_and_TV=(
+	'https://www.youtube.com/watch?v=8rg2vkz72a8'\ 'https://www.youtube.com/watch?v=zwp8UxIY_iM'\ 'https://www.youtube.com/watch?v=wFavxCmZbjg'\ 'https://www.youtube.com/watch?v=B8P1BNCJHBQ'\ 'https://www.youtube.com/watch?v=5o_E95Nqrx4'\ 'https://www.youtube.com/watch?v=UsnRQJxanVM'\ 'https://www.youtube.com/watch?v=BEm0AjTbsac'\ 'https://www.youtube.com/watch?v=eOR2QYy670k'\ 'https://www.youtube.com/watch?v=re32xnyYP3A'\ 'https://www.youtube.com/watch?v=hnXD6FRZtn0'\ 'https://www.youtube.com/watch?v=BUhANu1ihRQ'\ 'https://www.youtube.com/watch?v=5o_E95Nqrx4'\ 'https://www.youtube.com/watch?v=QijRTKbdfZY'\ 'https://www.youtube.com/watch?v=zuQ9dDj-Zuw'\ 'https://www.youtube.com/watch?v=enuOArEfqGo'\ 'https://www.youtube.com/watch?v=BGHbdq_DgMc'\ ''\ ''\ ''\ ''\ ''\ ''\ ''\ ''\ ''\ ''\ ''\ ''\
+)
+
+choices="Classical\nYugoslav\nForeign\nGames_and_TV"
+
+chosen=$(echo -e "$choices" | dmenu -i)
+
+case $chosen in
+	Yugoslav) mpv --shuffle --speed=1.0 $Yugo ;;
+	Classical) mpv --shuffle --speed=1.0 $Classical ;;
+	Foreign) mpv --shuffle --speed=1.0 $Foreign ;;
+	Games_and_TV) mpv --shuffle --speed=1.0 $Games_and_TV ;;
+esac
