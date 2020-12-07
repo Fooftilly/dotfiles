@@ -1,0 +1,26 @@
+#!/bin/sh
+#This script takes links from one of the variables and makes a playlist in mpv. It uses dmenu for variable selection.
+cd /home/nikola/dotfiles/Music
+
+Classical=('https://raw.githubusercontent.com/Fooftilly/dotfiles/master/Music/Classical')
+
+Yugo=('https://raw.githubusercontent.com/Fooftilly/dotfiles/master/Music/Yugo')
+
+Foreign=('https://raw.githubusercontent.com/Fooftilly/dotfiles/master/Music/Foreign')
+
+Games_and_TV=('https://raw.githubusercontent.com/Fooftilly/dotfiles/master/Music/Games_and_TV')
+
+AddMusic='addmusic'
+
+
+choices="Classical\nYugoslav\nForeign\nGames_and_TV\nAddMusic"
+
+chosen=$(echo -e "$choices" | dmenu -i)
+
+case $chosen in
+	Yugoslav) mpv --shuffle --speed=1.0 --playlist=$Yugo ;;
+	Classical) mpv --shuffle --speed=1.0 --playlist=$Classical ;;
+	Foreign) mpv --shuffle --speed=1.0 --playlist=$Foreign ;;
+	Games_and_TV) mpv --shuffle --speed=1.0 --playlist=$Games_and_TV ;;
+	AddMusic)  sh $AddMusic
+esac
