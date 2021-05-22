@@ -1,0 +1,1 @@
+/home/nikola/.config/transmission-daemon/torrent-notify.sh

@@ -1,0 +1,16 @@
+To use multiple keyboard and to change them easly, create a file:
+
+/etc/X11/xorg.conf.d/00-keyboard.conf
+
+With this content
+
+Section "InputClass"
+	Identifier "system-keyboard"
+	MatchIsKeyboard "on"
+	Option "XkbLayout" "us,me,rs"
+        Option "XkbModel" "pc104"
+	Option "XkbOptions" "grp:alt_shift_toggle"
+EndSection
+
+
+More info here: https://wiki.archlinux.org/title/Xorg/Keyboard_configuration#Using_setxkbmap

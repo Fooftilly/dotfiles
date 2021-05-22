@@ -1,0 +1,1 @@
+/home/nikola/.config/mpv/scripts/autosub.lua

@@ -1,0 +1,1 @@
+/home/nikola/.config/mpv/scripts/mpv_thumbnail_script_server.lua
