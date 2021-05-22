@@ -1,0 +1,17 @@
+Run
+xinput --list-props "TPPS/2 IBM TrackPoint"
+command to show the trackpoint properties, check and note the property name that have word "accel" or "deceleration" (it would vary between distro I think, I saw the name is using deceleration in linux mint I recall, while in fedora and arch linux they use accel). For example if the name is "libinput Accel Speed" and the current value is 0, you can increase it with command xinput --set-prop "TPPS/2 IBM TrackPoint" "libinput Accel Speed" 0.5 (you can also set negative value to decrease the speed). If the property name is deceleration, you would do the reverse instead by giving it lower value.
+
+In order to configure the property at system boot, you would need to create a file /etc/X11/xorg.conf.d/20-thinkpad-trackpoint.conf with this content for example:
+
+Section "InputClass"
+	Identifier    "Trackpoint Wheel Emulation"
+	MatchDriver "libinput"
+	MatchProduct  "TPPS/2 IBM TrackPoint|DualPoint Stick|Synaptics Inc. Composite TouchPad / TrackPoint|ThinkPad USB Keyboard with TrackPoint|USB Trackpoint pointing device|Composite TouchPad / TrackPoint"
+	Option "Accel Speed" "0.5"
+EndSection
+
+Watch carefully how the driver name "libinput" and option name "Accel Speed" are separated. Also each distro might uses different driver, so adjust the value accordingly.
+
+
+Source and credits: https://www.reddit.com/r/thinkpad/comments/7htmzn/just_switched_to_ubuntu_on_my_t25_trackpoint_too/dqtzjmu/
